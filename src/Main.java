@@ -23,7 +23,7 @@ public class Main {
 
 
         Obstacle [] obstacles = {
-                new Cross(200),
+                new Cross(10000),
                 new Wall(1)
         };
 
